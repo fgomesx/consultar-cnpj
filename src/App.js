@@ -65,7 +65,7 @@ function App() {
     <div className="container">
       <h1 className="title">
         <ReactTyped
-          strings={[`&lt;data.cnpj&gt;`, `Consultar CNPJ`]}
+          strings={[`&lt;consultar.cnpj&gt;`, `Consultar CNPJ`]}
           typeSpeed={30}
           backSpeed={30}
           backDelay={500}
